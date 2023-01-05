@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jerryweijin.github.io',
                 'git_url': 'https://github.com/jerryweijin/jerryweijin.github.io',
                 'lib_path': 'jerryweijin_github_io'},
-  'syms': {'jerryweijin_github_io.core': {'jerryweijin_github_io.core.foo': ('core.html#foo', 'jerryweijin_github_io/core.py')}}}
+  'syms': {}}
