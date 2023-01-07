@@ -3,7 +3,7 @@ project:
 
 website:
   title: "jerryweijin.github.io"
-  site-url: "https://jerryweijin.github.io/something"
+  site-url: "https://jerryweijin.github.io/"
   description: "There is a saying that you are best positioned to help the person one step behind you. I created this blog to document my learning and share my learning with other people. Learning is a life journey, so let's learn together."
   repo-branch: main
   repo-url: "https://github.com/jerryweijin/jerryweijin.github.io"
