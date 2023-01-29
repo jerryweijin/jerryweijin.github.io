@@ -1,0 +1,3002 @@
+
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+    
+
+<head>
+    
+
+
+
+
+<meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no"/>
+
+
+    <title>MetLife Pet Insurance | Voted Best Pet Health Insurance</title>
+    <meta name="title" content="MetLife Pet Insurance | Voted Best Pet Health Insurance"/>
+
+
+
+
+
+    <meta property="description" content="Customize your pet insurance with MetLife. Our comprehensive coverage includes emergency care, wellness &amp; more. Get a free quote online or call 855-270-7387."/>
+    <meta name="description" content="Customize your pet insurance with MetLife. Our comprehensive coverage includes emergency care, wellness &amp; more. Get a free quote online or call 855-270-7387."/>
+
+
+
+
+
+
+
+
+
+
+
+    
+        <meta name="robots" content="index, follow"/>
+    
+
+
+
+    <link rel="canonical" href="https://www.metlifepetinsurance.com"/>
+
+
+
+
+
+
+
+
+
+    
+        
+        
+        
+            <meta property="og:title" content="MetLife Pet Insurance | Voted Best Pet Health Insurance"/>
+        
+
+        
+
+        <meta property="og:site_name" content="MetLife"/>
+
+        
+
+        
+            <meta property="og:url" content="https://www.metlifepetinsurance.com/"/>
+        
+
+        
+            <meta property="og:description" content="Customize your pet insurance with MetLife. Our comprehensive coverage includes emergency care, wellness &amp; more. Get a free quote online or call 855-270-7387."/>
+        
+
+        
+
+        
+        
+        
+            <meta property="og:image" content="http://www.metlife.com/content/dam/metlifecom/us/social-share/metlife-logo-share.jpg"/>
+        
+
+        
+            <meta property="og:image:secure_url" content="https://www.metlife.com/content/dam/metlifecom/us/social-share/metlife-logo-share.jpg"/>
+        
+
+        <meta property="og:image:width" content="1200"/>
+
+        <meta property="og:image:height" content="630"/>
+
+        <meta property="og:type" content="website"/>
+
+        
+        <meta property="twitter:card" content="summary"/>
+
+        <meta property="twitter:site" content="Metlife"/>
+
+        
+
+        
+            <meta property="twitter:title" content="MetLife Pet Insurance | Voted Best Pet Health Insurance"/>
+        
+
+        
+
+        
+            <meta property="twitter:description" content="Customize your pet insurance with MetLife. Our comprehensive coverage includes emergency care, wellness &amp; more. Get a free quote online or call 855-270-7387."/>
+        
+
+        
+
+        
+
+        
+
+        
+            <meta property="twitter:url" content="https://www.metlifepetinsurance.com/"/>
+        
+        
+        
+            <meta property="twitter:image" content="http://www.metlife.com/content/dam/metlifecom/us/social-share/metlife-logo-share.jpg"/>
+        
+
+        
+        <meta name="weibo:type" content="Webpage"/>
+    
+
+
+<meta name="format-detection" content="telephone=no"/>
+<meta name="format-detection" content="date=no"/>
+<meta name="format-detection" content="address=no"/>
+<meta name="format-detection" content="email=no"/>
+
+
+
+
+
+
+    <link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon"/>
+
+    
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,devanagari,greek,greek-ext,latin-ext,vietnamese"/>
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/clientlibs/clientlib-language/global.min.css" type="text/css">
+
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/clientlibs/clientlib-base/global.min.css" type="text/css">
+
+
+
+
+
+
+
+
+
+    
+        <link rel="stylesheet" href="/content/dam/metlifecom/us/metlifepetinsurance/scripts/css/ticks-cross.css"/>
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/clientlibs/clientlib-jquery.min.js" defer></script>
+
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/clientlibs/clientlib-base/global.min.js" defer></script>
+
+
+
+
+
+    
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/clientlibs/clientlib-site/us.min.js" defer></script>
+
+
+
+
+
+
+
+
+
+
+<![if IE]>
+<script type="text/javascript">
+    //CustomEvent polyfill for IE compatibility
+    (function () {
+
+        if (typeof window.CustomEvent === "function") return false;
+
+        function CustomEvent(event, params) {
+            params = params || {bubbles: false, cancelable: false, detail: undefined};
+            var evt = document.createEvent('CustomEvent');
+            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+            return evt;
+        }
+
+        CustomEvent.prototype = window.Event.prototype;
+
+        window.CustomEvent = CustomEvent;
+    })();
+</script>
+<![endif]>
+
+<script type="text/javascript">
+    var campaignID = '';
+    var queryParametersCampaign = location.search.substring(1) ? location.search.substring(1) : '';
+
+    function getQueryStringParams(name) {
+        var match = RegExp('[?&]' + name + '=([^&#]*)', 'i').exec(window.location.search);
+        var queryParam = match && match[1];
+        if (queryParam == null) {
+            return "";
+        }
+        else {
+            return queryParam;
+        }
+    }
+    if (queryParametersCampaign != '') {
+        campaignID = getQueryStringParams('cid');
+        sessionStorage.setItem("digitialDataQueryParametersCampaign", queryParametersCampaign);
+        if (campaignID != null && campaignID != "") {
+            sessionStorage.setItem("digitialDataCampaignID", campaignID);
+        } else {
+            if (sessionStorage.getItem("digitialDataCampaignID") != null && sessionStorage.getItem("digitialDataCampaignID") != "") {
+                campaignID = sessionStorage.getItem("digitialDataCampaignID");
+            }
+        }
+    } else if (sessionStorage.getItem("digitialDataQueryParametersCampaign") != null && sessionStorage.getItem("digitialDataQueryParametersCampaign") != "") {
+        queryParametersCampaign = sessionStorage.getItem("digitialDataQueryParametersCampaign");
+        campaignID = sessionStorage.getItem("digitialDataCampaignID");
+    }
+</script>
+
+<script type="text/javascript">
+    var pagePath = "/content/metlife/us/metlifepetinsurance/homepage";
+    window.digitalData = {
+        version: '1.0',
+        eventTrack: function (cevt, eventDetail) {
+            var msg = ' The "cevt" argument (required) is a string defining the Javascript custom event name';
+            if (typeof cevt !== 'string' || cevt.length < 1) {
+                throw msg;
+            }
+            if (typeof digitalData.event !== 'object') {
+                digitalData.event = [];
+            }
+            if (typeof eventDetail !== 'object') {
+                eventDetail = {
+                    eventName: cevt
+                };
+            }
+            digitalData.event.push(eventDetail);
+            var ev = new CustomEvent(cevt, {
+                'detail': eventDetail
+            });
+            document.getElementsByTagName('body')[0].dispatchEvent(ev);
+        },
+        getEventAttr: function () {
+            var ev, i;
+            ev = digitalData.event;
+            i = ev.length - 1;
+            return ev[i].attributes;
+        },
+        campaign: {
+            id: campaignID,
+            queryStringParameters: queryParametersCampaign
+        },
+        page: {
+            pageInfo: {
+                pageTemplateType: "/conf/globalmarketingplatform/settings/wcm/templates/generic-content",
+                pageType:"Unspecified",
+                audienceType: "Uncategorized"
+            }
+        }
+    };
+</script>
+
+
+<script type="text/javascript">
+    (function (win, doc, style, timeout) {
+        var STYLE_ID = 'at-body-style';
+
+        function getParent() {
+            return doc.getElementsByTagName('head')[0];
+        }
+
+        function addStyle(parent, id, def) {
+            if (!parent) {
+                return;
+            }
+            var style = doc.createElement('style');
+            style.id = id;
+            style.innerHTML = def;
+            parent.appendChild(style);
+        }
+
+        function removeStyle(parent, id) {
+            if (!parent) {
+                return;
+            }
+            var style = doc.getElementById(id);
+            if (!style) {
+                return;
+            }
+            parent.removeChild(style);
+        }
+
+        addStyle(getParent(), STYLE_ID, style);
+        setTimeout(function () {
+            removeStyle(getParent(), STYLE_ID);
+        }, timeout);
+    }(window, document, "#heroimage {opacity: 0 !important}", 8000));
+</script>
+
+
+
+
+
+
+
+
+    
+        <script src="https://assets.adobedtm.com/6279662c4fd9/709962abe32d/launch-EN0379f0d4da0c425b813fd7573a3070a7.min.js" async></script>
+
+<script type="text/javascript" src="https://content.zenimpact.io/dist/zen_init.min.js?v=2720809"></script>
+
+<script>Zen.init({ client: "18395834-61ce-4ca0-bb1c-5a55114867dd" });</script>
+    
+
+
+
+    
+
+
+
+
+    
+        <script type="text/javascript" src="https://app.five9.com/consoles/SocialWidget/five9-social-widget.min.js" defer></script>
+    
+        <script type="text/javascript" src="https://cmp.osano.com/16CIDHRpZJpvT17et/6cd11054-d214-47b1-a24d-9596a6887926/osano.js" defer></script>
+    
+
+
+
+
+    
+        <script type="text/javascript" src="/content/dam/metlifecom/us/metlifepetinsurance/scripts/js/value-prop_edit.js" defer></script>
+    
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+</head>
+    
+
+
+<body>
+    
+    
+
+<div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experience-fragment experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experience-fragment-ec78031162" class="cmp-experiencefragment cmp-experiencefragment--global_header">
+
+    
+<link rel="stylesheet" href="/libs/cq/experience-fragments/components/xfpage/content.min.css" type="text/css">
+
+
+
+<div class="xf-content-height">
+    
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-header.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-header.min.css" type="text/css">
+
+
+
+
+
+    
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-search.min.js" defer></script>
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-search.min.css" type="text/css">
+
+
+
+
+
+
+    
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-login.min.js" defer></script>
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-login.min.css" type="text/css">
+
+
+
+
+
+
+
+
+    
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-navigation.min.js" defer></script>
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/header/clientlibs-navigation.min.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+    <a href="#skiptomaincontent" class="skip" role="button">Skip Navigation</a>
+
+
+
+<header class="header global__header  ">
+    <div class="container">
+        
+        <div class="row">
+            <div class="col-12 header__container">
+                
+                    <div class="header__mobile-navigation">
+                        <a href="#" tabindex="0" class="header__navigation-hamburger" role="button" aria-labelledby="navmenu">
+                            <svg class="icon icon-menu header__navigation-trigger" aria-hidden="true" tabindex="-1" focusable="false">
+                                <title id="navmenu">Navigation</title>
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-menu" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </a>
+                    </div>
+                
+                
+                    
+
+
+
+<div class="header__logo-container">
+    <a href="/" target="_self">
+        <img src="/content/dam/metlifecom/us/icons-header/MetLife.png" alt="MetLife" class="header__logo"/>
+    </a>
+</div>
+
+                    <div class="logo-divider"></div>
+                
+                
+                    
+
+
+<div class="d-none d-sm-none d-md-flex d-lg-flex header__navigation-container  ">
+    
+        
+            
+            
+                <div role="button" aria-expanded='false' tabindex="0" class="header__navigation-container-menu-item" data-nav-section="section1" aria-controls="section1">
+                    <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                        PET INSURANCE
+                        <svg class="icon icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false" aria-label="Navigation" role="button">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </div>
+                </div>
+            
+        
+    
+        
+            
+            
+                <div role="button" aria-expanded='false' tabindex="0" class="header__navigation-container-menu-item" data-nav-section="section2" aria-controls="section2">
+                    <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                        RESOURCES
+                        <svg class="icon icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false" aria-label="Navigation" role="button">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </div>
+                </div>
+            
+        
+    
+        
+            
+            
+                <div role="button" aria-expanded='false' tabindex="0" class="header__navigation-container-menu-item" data-nav-section="section3" aria-controls="section3">
+                    <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                        CUSTOMER SUPPORT
+                        <svg class="icon icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false" aria-label="Navigation" role="button">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </div>
+                </div>
+            
+        
+    
+        
+    
+</div>
+                
+                
+                    <div class="header__utilities">
+                        
+                            
+
+
+
+<div class="header__login-container">
+    <div class="header__login-trigger linkOnly" title="MYPETS LOGIN">
+        <a class="header__login-trigger-label" href="https://mypets.metlife.com/Account/Login" target="_blank" role="button">
+            <svg class="icon icon-profile2" aria-hidden="true" tabindex="-1" focusable="false">
+                <title>MYPETS LOGIN</title>
+                <use xlink:href="/static/images/icons-metlife.svg#icon-profile2" aria-hidden="true" tabindex="-1" focusable="false"></use>
+            </svg>
+            <span class="header__login-label font-meta-1">
+                MYPETS LOGIN
+            </span>
+        </a>
+    </div>
+</div>
+                        
+                        
+                            
+
+
+
+<div class="header__search-container" title="" data-target="search" aria-label="Search Overlay " tabindex="0" role="button">
+    <div class="header__search-trigger">
+        <input type="hidden" id="isLucene" value="true"/>
+        <svg class="icon icon-search" aria-hidden="true" tabindex="-1" focusable="false" aria-label="Enter your search here" role="button">
+            <title>SEARCH</title>
+            <use xlink:href="/static/images/icons-metlife.svg#icon-search" aria-hidden="true" tabindex="-1" focusable="false"></use>
+        </svg>
+        <span class="d-sm-none header__search-label font-meta-1" aria-hidden="true">
+            SEARCH
+        </span>
+    </div>
+</div>
+                        
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+    
+
+
+
+<nav class="navigation__menu nav-hidden ">
+    <div class="container">
+        <div class="row navigation__menu_mobile-nav-header d-sm-none d-md-none d-lg-none">
+            
+                
+
+
+
+<div class="header__logo-container">
+    <a href="/" target="_self">
+        <img src="/content/dam/metlifecom/us/icons-header/MetLife.png" alt="MetLife" class="header__logo"/>
+    </a>
+</div>
+
+            
+            <svg class="icon icon-close" tabindex="0" role="button" aria-labelledby="title">
+                <title id="title">close</title>
+                <use xlink:href="/static/images/icons-metlife.svg#icon-close"></use>
+            </svg>
+        </div>
+        <div class="row navigation__menu_mobile-utility d-md-none d-lg-none">
+            
+                
+
+
+
+<div class="header__login-container">
+    <div class="header__login-trigger linkOnly" title="MYPETS LOGIN">
+        <a class="header__login-trigger-label" href="https://mypets.metlife.com/Account/Login" target="_blank" role="button">
+            <svg class="icon icon-profile2" aria-hidden="true" tabindex="-1" focusable="false">
+                <title>MYPETS LOGIN</title>
+                <use xlink:href="/static/images/icons-metlife.svg#icon-profile2" aria-hidden="true" tabindex="-1" focusable="false"></use>
+            </svg>
+            <span class="header__login-label font-meta-1">
+                MYPETS LOGIN
+            </span>
+        </a>
+    </div>
+</div>
+            
+            
+                <div class="d-sm-none">
+                    
+
+
+
+<div class="header__search-container" title="" data-target="search" aria-label="Search Overlay " tabindex="0" role="button">
+    <div class="header__search-trigger">
+        <input type="hidden" id="isLucene" value="true"/>
+        <svg class="icon icon-search" aria-hidden="true" tabindex="-1" focusable="false" aria-label="Enter your search here" role="button">
+            <title>SEARCH</title>
+            <use xlink:href="/static/images/icons-metlife.svg#icon-search" aria-hidden="true" tabindex="-1" focusable="false"></use>
+        </svg>
+        <span class="d-sm-none header__search-label font-meta-1" aria-hidden="true">
+            SEARCH
+        </span>
+    </div>
+</div>
+                </div>
+            
+            <svg class="icon icon-close d-none d-sm-block" tabindex="0" role="button" aria-labelledby="hamburger-tab-close">
+                <title id="hamburger-tab-close">Close</title>
+                <use xlink:href="/static/images/icons-metlife.svg#icon-close"></use>
+            </svg>
+        </div>
+
+        
+            
+            <div class="row navigation__menu-row d-md-none d-lg-none section1" data-section="section1" id="section1">
+                <div class="navigation__menu-item-title font-cta-7">
+                    
+                    PET INSURANCE
+                </div>
+                
+                    <div class="navigation_wrapper">
+
+    
+    
+    
+    <div id="container-86dffaee2c" class="cmp-container">
+        
+        <div class="navigation-promo-menu parbase">
+
+
+
+
+<div class="navigation__menu-promo-image col-3 d-none d-sm-none d-md-block d-lg-block">
+    <div class="bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/visual-product-card/25598_Pet-Insurance-DTV-website-landing-page-1_R1V1.jpg')"></div>
+</div>
+<div class="navigation__menu-promo-content col-3">
+    <div class="navigation__menu-promo-content__container">
+        <div class="font-header-4 navigation__menu-promo-content-headline " aria-label="PET INSURANCE">
+            PET INSURANCE
+        </div>
+        <div class="font-body-2  navigation__menu-promo-content-copy">
+            <p>MetLife Pet Insurance<sup>1</sup> helps take the worry out of covering the cost of unexpected visits to the vet with your furry family members.</p>
+
+        </div>
+        <a class="navigation__menu-promo-content-cta textLink-blue" href="/" target="_self">
+            <span>Learn More</span>
+            <svg class="icon icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right-textlink" aria-hidden="true" tabindex="-1" focusable="false"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+
+<div class="col-12 col-md-6 col-lg-6 navigation__menu-linkList navigation__menu-nestedLinkList navigation-menuLinksAll">
+    
+        
+            <div class="navigation__menu-nestedLinkList-section">
+                <div class="navigation__menu-nested-nav-link-section-mobile-title font-cta-1 d-md-none d-lg-none" role="button" aria-expanded="false" tabindex="0" aria-role="accordion" aria-label="Our Pet Insurance" data-section-title="Our Pet Insurance">
+                    Our Pet Insurance
+                    <svg class="icon icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false">
+                        <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                    </svg>
+                </div>
+                
+                    
+                    
+                            <span class="navigation__menu-list-nestedLinks-section-title d-none d-sm-none d-md-block d-lg-block font-eyebrow-4 ">
+                                Our Pet Insurance
+                            </span>
+                    
+                
+                
+                    <div class="navigation__menu-nested-nav-link-section-column-links d-md-block d-lg-block" data-section-title="Our Pet Insurance">
+						<ul>
+                           
+                                
+                                    <li class="navigation__menu-list-nestedLinks-section-link">
+                                        <a href="/dog-insurance/" target="_self">Dog Insurance</a>
+                                    </li>
+                                
+                            
+                                
+                                    <li class="navigation__menu-list-nestedLinks-section-link">
+                                        <a href="/cat-insurance/" target="_self">Cat Insurance</a>
+                                    </li>
+                                
+                            
+                                
+                                    <li class="navigation__menu-list-nestedLinks-section-link">
+                                        <a href="/coverage-exclusions/" target="_self">Coverage &amp; Exclusions</a>
+                                    </li>
+                                
+                            
+						</ul>
+                    </div>
+                
+            </div>
+        
+        
+    
+        
+            <div class="navigation__menu-nestedLinkList-section">
+                <div class="navigation__menu-nested-nav-link-section-mobile-title font-cta-1 d-md-none d-lg-none" role="button" aria-expanded="false" tabindex="0" aria-role="accordion" aria-label="About Pet Insurance" data-section-title="About Pet Insurance">
+                    About Pet Insurance
+                    <svg class="icon icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false">
+                        <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-down" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                    </svg>
+                </div>
+                
+                    
+                    
+                            <span class="navigation__menu-list-nestedLinks-section-title d-none d-sm-none d-md-block d-lg-block font-eyebrow-4 ">
+                                About Pet Insurance
+                            </span>
+                    
+                
+                
+                    <div class="navigation__menu-nested-nav-link-section-column-links d-md-block d-lg-block" data-section-title="About Pet Insurance">
+						<ul>
+                           
+                                
+                                    <li class="navigation__menu-list-nestedLinks-section-link">
+                                        <a href="/how-pet-insurance-works/" target="_self">How Pet Insurance Works</a>
+                                    </li>
+                                
+                            
+                                
+                                    <li class="navigation__menu-list-nestedLinks-section-link">
+                                        <a href="/is-pet-insurance-worth-it/" target="_self">Is Pet Insurance Worth It?</a>
+                                    </li>
+                                
+                            
+                                
+                                    <li class="navigation__menu-list-nestedLinks-section-link">
+                                        <a href="/pet-insurance-from-employers/" target="_self">Pet Insurance Through Your Employer</a>
+                                    </li>
+                                
+                            
+                                
+                                    <li class="navigation__menu-list-nestedLinks-section-link">
+                                        <a href="/faqs/" target="_self">FAQs</a>
+                                    </li>
+                                
+                            
+						</ul>
+                    </div>
+                
+            </div>
+        
+        
+    
+    <div class="navigation__menu-list-divider"></div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+        
+    </div>
+
+</div>
+                
+            </div>
+            
+                
+                    <div class="navigation__row-separator d-md-none d-lg-none"></div>
+                
+            
+        
+            
+            <div class="row navigation__menu-row d-md-none d-lg-none section2" data-section="section2" id="section2">
+                <div class="navigation__menu-item-title font-cta-7">
+                    
+                    RESOURCES
+                </div>
+                
+                    <div class="navigation_wrapper">
+
+    
+    
+    
+    <div id="container-0d722bd906" class="cmp-container">
+        
+        <div class="navigation-promo-menu parbase">
+
+
+
+
+<div class="navigation__menu-promo-image col-3 d-none d-sm-none d-md-block d-lg-block">
+    <div class="bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/resources/resources_nav.jpg')"></div>
+</div>
+<div class="navigation__menu-promo-content col-6">
+    <div class="navigation__menu-promo-content__container">
+        <div class="font-header-4 navigation__menu-promo-content-headline " aria-label="PET RESOURCE CENTER">
+            PET RESOURCE CENTER
+        </div>
+        <div class="font-body-2  navigation__menu-promo-content-copy">
+            <p>Pet health tips, fun DIY pet projects, frequently asked questions, and helpful information about pet insurance.</p>
+
+        </div>
+        <a class="navigation__menu-promo-content-cta textLink-blue" href="/resources/" target="_self">
+            <span>Learn More</span>
+            <svg class="icon icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right-textlink" aria-hidden="true" tabindex="-1" focusable="false"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+
+<div class="col-12 col-md-3 navigation__menu-linkList navigation-menuLinksAll">
+    
+        
+        
+            <ul>
+                
+                    
+                        <li class="navigation__menu-list-links">
+                            <a href="/blog/" target="_self">MetLife Pet Blog</a>
+                        </li>
+                    
+                
+                    
+                        <li class="navigation__menu-list-links">
+                            <a href="/blog/pet-care/" target="_self">Pet Care &amp; Health</a>
+                        </li>
+                    
+                
+                    
+                        <li class="navigation__menu-list-links">
+                            <a href="/blog/breed-spotlights/" target="_self">Breed Spotlights &amp; Guides</a>
+                        </li>
+                    
+                
+            </ul>
+        
+    
+    <div class="navigation__menu-list-divider"></div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+        
+    </div>
+
+</div>
+                
+            </div>
+            
+                
+                    <div class="navigation__row-separator d-md-none d-lg-none"></div>
+                
+            
+        
+            
+            <div class="row navigation__menu-row d-md-none d-lg-none section3" data-section="section3" id="section3">
+                <div class="navigation__menu-item-title font-cta-7">
+                    
+                    CUSTOMER SUPPORT
+                </div>
+                
+                    <div class="navigation_wrapper">
+
+    
+    
+    
+    <div id="container-7b053e5815" class="cmp-container">
+        
+        <div class="navigation-promo-menu parbase">
+
+
+
+
+<div class="navigation__menu-promo-image col-3 d-none d-sm-none d-md-block d-lg-block">
+    <div class="bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/customer-support/customer-support-nav.jpg')"></div>
+</div>
+<div class="navigation__menu-promo-content col-6">
+    <div class="navigation__menu-promo-content__container">
+        <div class="font-header-4 navigation__menu-promo-content-headline " aria-label="CUSTOMER SUPPORT &amp; CLAIMS">
+            CUSTOMER SUPPORT &amp; CLAIMS
+        </div>
+        <div class="font-body-2  navigation__menu-promo-content-copy">
+            <p>If you have questions about a claim or need help with your existing plan, our friendly pet advocates are here to help you get on the right track.<br>
+</p>
+
+        </div>
+        <a class="navigation__menu-promo-content-cta textLink-blue" href="/customer-support/" target="_self">
+            <span>Read More</span>
+            <svg class="icon icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right-textlink" aria-hidden="true" tabindex="-1" focusable="false"></use>
+            </svg>
+        </a>
+    </div>
+</div>
+
+
+<div class="col-12 col-md-3 navigation__menu-linkList navigation-menuLinksAll">
+    
+        
+        
+            <ul>
+                
+                    
+                        <li class="navigation__menu-list-links">
+                            <a href="/claims/" target="_self">File a Claim</a>
+                        </li>
+                    
+                
+                    
+                        <li class="navigation__menu-list-links">
+                            <a href="/mobile-app/" target="_self">MetLife Pet App</a>
+                        </li>
+                    
+                
+            </ul>
+        
+    
+    <div class="navigation__menu-list-divider"></div>
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+        
+    </div>
+
+</div>
+                
+            </div>
+            
+                
+                    <div class="navigation__row-separator d-md-none d-lg-none"></div>
+                
+            
+        
+            
+            <div class="row navigation__menu-row d-md-none d-lg-none section4" data-section="section4" id="section4">
+                <div class="navigation__menu-item-title font-cta-7">
+                    
+                    
+                </div>
+                
+                    <div class="navigation_wrapper">
+
+    
+    
+    
+    <div id="container-1314017805" class="cmp-container">
+        
+        <div class="navigation-nested-menu parbase">
+
+
+
+<div class="col-md-3 col-lg-3 navigation__menu-nested-nav-legend d-none d-sm-none d-md-block d-lg-block ">
+    
+</div>
+<div class="col-12 col-md-9 col-lg-9 navigation__menu-nested-nav-link-section">
+    
+</div></div>
+
+        
+    </div>
+
+</div>
+                
+            </div>
+            
+                
+            
+        
+    </div>
+</nav>
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<section class="header__search-overlay-section d-none" aria-hidden="true" role="dialog" aria-label="Search Overlay " tabindex="-1">
+    <div class="header__search-overlay">
+        <div class="container">
+            <div class="row">
+                 <div class="col-12">
+                    <div class="search-overlay__close">
+                        <a href="#" tabindex="-1" aria-hidden="true" role="button" aria-label="Close">
+                            <svg class="icon icon-close" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-close" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="search-trigger" title="SEARCH" data-target="search">
+                        <input id="isLucene" type="hidden" value="true"/>
+                        <div class="searchHeader-label font-cta-2 font-content-link-1-sm font-content-link-1-md">
+                            Enter your search here
+                        </div>
+                        <form id="metSearchForm" role="search" class="search-trigger__container" name="metSearchForm">
+                            <input id="searchInPage" class="search-trigger__search-box font-header-1 font-header-2 font-content-link-1 search_openTwo" type="text" autocomplete="off" aria-describedby="autocomp" onkeyup="setThemePageIDS();ss_handleKey(event);drawTextBox('',event);" placeholder="SEARCH" name="query" data-placeholder="" data-search-url="/bin/MLApp/globalMarketingPlatform/core/suggest" data-search-ajax-url="/bin/MLApp/globalMarketingPlatform/core/search" data-site="gbm_petinsurance_ml_site" aria-label="SEARCH" aria-autocomplete="both" aria-haspopup="false" autocapitalize="off" autocorrect="off" spellcheck="false" aria-activedescendant="search"/>
+                            <span id="autocomp" aria-atomic="true" class="sr-only sr-class" tabindex="-1" aria-hidden="true">Auto Complete</span>
+                            <a id="homepage_header_global-searchLink" class="search_location_image" href="#" role="button" aria-label="SEARCH">
+                                <svg class="icon brand-1st icon-search-overlay js-searchIcon" aria-hidden="true" tabindex="-1" focusable="false">
+                                    <use xlink:href="/static/images/icons-metlife.svg#icon-search" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                                </svg>
+                            </a>
+                            <div class="search-strip"></div>
+                            <input id="overlayerback" class="search-trigger__search-box" autocomplete="off" type="text" aria-label="SEARCH"/>
+                            <div id="suggestionsbox" class="suggestionsbox ">
+                                <table id="search_suggest_table" role="presentation" class="ss-gac-table">
+                                    <tbody id="search_suggest" class="ss-gac-m font-content-link-1 font-header-5-sm font-header-4-sm" style="visibility: hidden;"></tbody>
+                                </table>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-12">
+                    
+
+
+
+<div class="overlay-search-results-container" role="region" aria-label="Search Results">
+    <div class="overlay-search-results-container__top " role="alert">
+        <div class="form-item__display display-text d-none">
+            <div class="search-info">
+                <div class="search-count">
+                    <span>0</span>
+                    of
+                    <span class="total-count">0</span>
+                    Search Results
+                </div>
+                <span class="d-none d-sm-block d-md-block d-lg-block">&nbsp;| &nbsp;</span>
+                <span class="display-label">Displaying</span>
+                <div class="form-icon-wrapper ">
+                    <select class="form-item__display__page-count page-count drop-down form-control " aria-label="results">
+                        
+                            <option value="10">10 results</option>
+                        
+                            <option value="20">20 results</option>
+                        
+                            <option value="30">30 results</option>
+                        
+                    </select>
+                    <svg class="icon icon-caret-down page-drop-down-icon" aria-hidden="true" tabindex="-1" focusable="false">
+                        <use xlink:href="/static/images/icons-metlife.svg#icon-caret-down" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="search-results-layout d-none d-sm-block d-md-block d-lg-block">
+				<span tabindex="0" class="icon icon-search-list active outline-lg" role="button" aria-pressed="true" list-on="on" list-off="off" aria-label="List View">
+					<svg class="search_svg">
+						<use xlink:href="/static/images/icons-metlife.svg#icon-search-list" aria-hidden="true" tabindex="-1" focusable="false"></use>
+					</svg>
+				</span>
+                <span class="pipe"></span>
+				<span tabindex="0" class="icon icon-search-grid outline-lg" role="button" aria-pressed="false" aria-label="Grid View">
+					<svg class="search_svg">
+						<use xlink:href="/static/images/icons-metlife.svg#icon-search-grid" aria-hidden="true" tabindex="-1" focusable="false"></use>
+					</svg>
+				</span>
+            </div>
+        </div>
+
+    </div>
+    <div class="overlay-search-results-container__results">
+        <div class="no-results d-none" aria-live="polite" role="region">
+            <div class="error-title no-results-title font-content-link-3">No Results</div>
+            <div class="font-body-3 "><p>Sorry, we couldn't find any results matching </p>
+<p>Please:</p>
+<ul>
+<li>Check the spelling and try again </li>
+<li>Search using fewer terms </li>
+<li><a href="https://www.metlife.com/support-and-manage/contact-us/">Click here for Customer Support</a></li>
+</ul>
+</div>
+        </div>
+        
+        <div class="search-results-container__correction-text d-none font-content-link-3">
+            <div class="error-title suggestion-title">
+                Did you mean "<span class="suggestion-val"></span>"
+            </div>
+            <div class="suggestion-text">
+                Did you mean <span class="js-searchSuggestion"></span> ?
+            </div>
+            <span class="font-body-3"><p>Sorry, we couldn't find any results matching </p>
+<p>Please:</p>
+<ul>
+<li>Check the spelling and try again </li>
+<li>Search using fewer terms </li>
+<li><a href="https://www.metlife.com/support-and-manage/contact-us/">Click here for Customer Support</a></li>
+</ul>
+</span>
+        </div>
+        <input type="hidden" aria-hidden="true" class="results-first-pagination" value="first"/>
+		<input type="hidden" aria-hidden="true" class="results-last-pagination" value="last"/>
+		<input type="hidden" aria-hidden="true" class="results-prev-pagination" value="previous"/>
+		<input type="hidden" aria-hidden="true" class="results-next-pagination" value="next"/>
+        <input type="hidden" aria-hidden="true" class="results-current-pagination" value="Current"/>
+        <nav class="results_pagination d-none" role="navigation" aria-label="Pagnitation" data-label-first="first" data-label-last="last" data-label-prev="previous" data-label-next="next" data-goto-text="Go To" data-current-text="Go To">
+        </nav>
+		<div id="pageNum" aria-live="polite" class="sr-only"></div>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    
+        <div class="social-sharing-utility hidden" aria-hidden="true">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/social-sharing/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/social-sharing/clientlibs.min.css" type="text/css">
+
+
+
+
+
+<div class="social-icons js-socialIcons" aria-label="Share" data-share-text="" role="region">
+    
+        <ul class="social-icons__list">
+            
+                <li class="social-icons__item">
+                    <a class="sharingButton" href="javascript:void(0)" tabindex="0" role="link" data-social-media="icon-facebook" aria-label="Facebook">
+                        <svg class="icon icon-facebook" aria-hidden="true" tabindex="-1" focusable="false">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-facebook" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </a>
+                </li>
+            
+                <li class="social-icons__item">
+                    <a class="sharingButton" href="javascript:void(0)" tabindex="0" role="link" data-social-media="icon-twitter" aria-label="Twitter">
+                        <svg class="icon icon-twitter" aria-hidden="true" tabindex="-1" focusable="false">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-twitter" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </a>
+                </li>
+            
+                <li class="social-icons__item">
+                    <a class="sharingButton" href="javascript:void(0)" tabindex="0" role="link" data-social-media="icon-linkedin" aria-label="LinkedIn">
+                        <svg class="icon icon-linkedin" aria-hidden="true" tabindex="-1" focusable="false">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-linkedin" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </a>
+                </li>
+            
+                <li class="social-icons__item">
+                    <a class="sharingButton" href="javascript:void(0)" tabindex="0" role="link" data-last="last" data-social-media="icon-email" aria-label="Email">
+                        <svg class="icon icon-email" aria-hidden="true" tabindex="-1" focusable="false">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-email" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </a>
+                </li>
+            
+            <li class="social-icons__item social-icons__close">
+                <a class="sharingButton" role="button" tabindex="0" aria-label="Close">
+                    <svg class="icon icon-close" aria-hidden="true" tabindex="-1" focusable="false">
+                        <use xlink:href="/static/images/icons-metlife.svg#icon-close" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    
+</div></div>
+    
+</div>
+
+    
+</div>
+
+</div></div>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/experience-fragment/clientlibs.min.css" type="text/css">
+
+
+
+
+    
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="immersive-brand-navigation parbase aem-GridColumn aem-GridColumn--default--12">
+<div id="skiptomaincontent" tabindex="-1">
+    
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/immersive-brand-navigation/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/immersive-brand-navigation/clientlibs.min.css" type="text/css">
+
+
+
+    
+
+    <div class="immersive-brand-navigation component ">
+        <div class="component__container">
+            <div class="background">
+                
+                    <div class="background__image bg active" data-desktop-src="/content/dam/metlifecom/us/metlifepetinsurance/home-page-hero-metlife-pet-insurance.webp" data-mobile-src="/content/dam/metlifecom/us/metlifepetinsurance/pet-insurance-mobile-hero.webp" style="background-position: center top;"></div>
+                
+            </div>
+            <div class="headline">
+                
+                    <div class="headline__item active">
+                        <div class="container">
+                            <div class="row">
+                                <div class="headline__item-container">
+                                    <div class="headline__item-content-container">
+                                        <div class="col-12 col-sm-8 col-md-7 offset-md-1 headline__item-content">
+                                            <div class="headline__item-eyebrow">PET INSURANCE</div>
+                                            <h1 class="headline__item-text font-header-4 font-header-2-md">Pet Insurance for Your Furriest Family Members</h1>
+                                        </div>
+                                        
+                                            <div class="col-12 col-sm-4 offset-md-1 col-md-3 headline__item-content-cta brand-button">
+                                               <a class="headline__item-cta" href="https://quote.metlifepetinsurance.com/pet?partnerId=999999" target="_blank" aria-label="FETCH YOUR QUOTE">FETCH YOUR QUOTE</a>
+                                            </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+            
+                
+            
+        </div>
+    </div>
+</div></div>
+<div class="divider parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/divider/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/divider/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+
+
+
+    
+
+
+<section id="divider-1246828900" class="divider component component__spacing-bottom " style="margin-top: 0px; margin-bottom: 20px; ">
+  	
+    <div class="container">
+        <div class="row">
+            <div class="col-12 responsive-columns">
+                <div class="divider__line gradient" style="height: 5px; ">
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+<div class="static-content parbase aem-GridColumn aem-GridColumn--default--12">
+
+<div class="component static-content ">
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How does insurance for a pet work?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For a typically low monthly fee, pet health insurance helps to reimburse you for a portion of your vet bills, helping you pay for your dog or cat’s unexpected medical expenses. Insurance plans typically don’t cover pre-existing conditions, which is why it’s a great idea to sign up your dog or cat when they are healthy. <a href='https://www.metlifepetinsurance.com/how-pet-insurance-works/'>Learn more about how pet insurance works</a>"
+    }
+  },{
+    "@type": "Question",
+    "name": "What are pre-existing conditions?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pre-existing conditions are typically injuries or illnesses, or symptoms that occurred prior to your coverage start date and any applicable waiting period. <a href='https://www.metlifepetinsurance.com/pre-existing-condition/'>Learn more about pre-existing conditions</a>, and reference your policy for full details."
+    }
+  },{
+    "@type": "Question",
+    "name": "How much will this cost me?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The cost of pet insurance depends on a variety of factors, including the species, breed, sex3, and age of your pet. Where you live also helps determine what you pay. The type of coverage you need will affect costs, too. Learn more about pet insurance costs or <a href='https://quote.metlifepetinsurance.com/pet?partnerId=999999'>get a free quote</a>."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do I have to use a specific vet?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Nope, you can use any licensed vet in the U.S.! Unlike with human health insurance, there is no such thing as “in-network” and “out-of-network” providers. So if you have a vet that you currently love, there is no need to switch."
+    }
+  },{
+    "@type": "Question",
+    "name": "I have a senior pet, is it too late to get insurance?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It’s never too late to make sure your pet has coverage. With no age restrictions, we are here for even our most silver of seniors and can help with everything from end-of-life care to grief counseling."
+    }
+  },{
+    "@type": "Question",
+    "name": "Are any breeds unable to get insurance?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We have zero breed exclusions, whether you have a <a href='https://www.metlifepetinsurance.com/blog/breed-spotlights/golden-doodle/'>golden doodle</a> prone to hip dysplasia or a <a href='https://www.metlifepetinsurance.com/blog/breed-spotlights/breed-spotlight-scottish-fold/'>scottish fold</a> prone to kidney disease."
+    }
+  }]
+}
+</script>
+
+</div></div>
+<div class="wysiwyg-rte parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/wysiwyg-rte/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/wysiwyg-rte/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+
+
+    
+
+
+<section id="wysiwyg-rte-1793086004" class="wysiwyg-rte component component__spacing-bottom " role="region" aria-labelledby="wysiwyg-rte-1793086004--labelledby">
+    
+        <div id="wysiwyg-rte-1793086004--labelledby" class="d-none" aria-hidden="true">pet insurance</div>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-8 offset-sm-2 responsive-columns">
+                <div class="richtext richtext-wysiwyg">
+                    <h2><span class="font-header-2">Pet Health Insurance </span></h2>
+<p>At MetLife Pet Insurance, we get it — pets are like family.  When a member of the family becomes sick or injured, you do whatever you can to fix it. But those veterinary costs can add up quickly, which is where our MetLife Insurance plans come in.</p>
+<p>Our insurance plans for dogs and cats can help reimburse you for unexpected vet bills. We can provide insurance for pets of all ages — even seniors — and offer robust annual benefit amount options, chronic care coverage, and no lifetime or per-incident limits. You can also <a href="https://www.metlifepetinsurance.com/how-pet-insurance-works/">customize your deductible</a> and reimbursement rates so they work best for your pet's needs and your budget.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section></div>
+<div class="visual-product-card parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/visual-product-card/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/visual-product-card/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+
+<section id="visual-product-card-622277833" class="visual-product-card component component__spacing-bottom " role="region" aria-labelledby="visual-product-card-622277833--labelledby">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 responsive-columns">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="visual-product-card__eyebrow-container">
+                            <div id="visual-product-card-622277833--labelledby" class="visual-product-card__eyebrow">
+                                PRODUCT OFFERINGS
+                            </div>
+                            <div class="visual-product-card__eyebrow-gradient-bar"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                    
+                    <div class="row">
+                        
+                            <div class="col-12 col-sm-6 visual-product-card__card-columns">
+                                <a class="visual-product-card__card-container image gray" href="https://www.metlifepetinsurance.com/dog-insurance/" target="_self">
+                                    
+    
+    <div class="visual-product-card__image-container">
+        
+            <div class="visual-product-card__image bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/metlife-pet-insurance-dog-insurance-min.webp');">
+            </div>
+        
+        
+    </div>
+
+                                    
+    
+    <div class="visual-product-card__content-container">
+        
+            <div class="visual-product-card__gradient-bar"></div>
+        
+        <div class="visual-product-card__title-container">
+            <h2 class="visual-product-card__title">
+                Dog Insurance
+            </h2>
+        </div>
+        <div class="visual-product-card__supporting-copy-container">
+            
+                <div class="visual-product-card__supporting-copy richtext">
+                    <p>Customizable and competitive dog insurance plans<br />
+</p>
+
+                </div>
+            
+        </div>
+    </div>
+
+                                </a>
+                            </div>
+                        
+                            <div class="col-12 col-sm-6 visual-product-card__card-columns">
+                                <a class="visual-product-card__card-container image gray" href="https://www.metlifepetinsurance.com/cat-insurance/" target="_self">
+                                    
+    
+    <div class="visual-product-card__image-container">
+        
+            <div class="visual-product-card__image bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/metlife-pet-insurance-cat-insurance-min.webp');">
+            </div>
+        
+        
+    </div>
+
+                                    
+    
+    <div class="visual-product-card__content-container">
+        
+            <div class="visual-product-card__gradient-bar"></div>
+        
+        <div class="visual-product-card__title-container">
+            <h2 class="visual-product-card__title">
+                Cat Insurance
+            </h2>
+        </div>
+        <div class="visual-product-card__supporting-copy-container">
+            
+                <div class="visual-product-card__supporting-copy richtext">
+                    <p>Comprehensive and competitive cat insurance plans<br />
+</p>
+
+                </div>
+            
+        </div>
+    </div>
+
+                                </a>
+                            </div>
+                        
+                    </div>
+                
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+</div>
+<div class="grouped-content parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/grouped-content/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/grouped-content/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+<div class="grouped-content component component__spacing-bottom ">
+    <div class="container">
+        <div class="row two-column">
+            <div class="grouped-content__main-column col-12 col-sm-10 col-md-4">
+                <div class="grouped-content__main" role="region" aria-label="Why MetLife Pet Insurance1">
+                    <div class="grouped-content__main-divider"></div>
+                    <h2 class="grouped-content__main-heading">
+                        Why MetLife Pet Insurance
+                    </h2>
+                    
+                        <div class="grouped-content__main-copy">
+                            <p>Peace of mind sounds perfect, doesn’t it? Affordable, extensive coverage means your pet can get the care they need to help them live a long and healthy life — and you can stay worry-free.<br />
+</p>
+
+                        </div>
+                    
+                    
+                        <a class="grouped-content__main-cta btn-brand-1st" href="https://quote.metlifepetinsurance.com/pet?partnerId=999999" target="_blank">
+                            Retrieve Your Quote
+                        </a>
+                    
+                </div>
+            </div>
+            <div class="grouped-content__card-column col-12 col-sm-12 col-md-6 offset-md-1">
+                <div class="row">
+                    
+                        <div class="grouped-content__card col-12 col-sm-6" role="region" aria-label="New, Innovative Policy Benefits&lt;br />
+">
+                            
+                                <img class="grouped-content__card-icon" src="/content/dam/metlifecom/us/refresh-icons/MetLifeHR/ico_hr_benefits-enrollment_240X240.png" alt="New, Innovative policy benefits" aria-hidden="true"/>
+                            
+                            <h2 class="grouped-content__card-heading">
+                                New, Innovative Policy Benefits<br />
+
+                            </h2>
+                            
+                                <div class="grouped-content__card-copy">
+                                    <ul>
+<li>The only provider to offer family plans,<sup>1</sup> <a href="https://www.metlifepetinsurance.com/blog/pet-insurance/pet-insurance-for-multiple-pets/">covering multiple pets</a> on one policy</li>
+<li>Use any licensed vet in the U.S.</li>
+</ul>
+<p> </p>
+
+                                </div>
+                            
+                            
+                        </div>
+                    
+                        <div class="grouped-content__card col-12 col-sm-6" role="region" aria-label="Flexible product offerings&lt;br />
+
+
+">
+                            
+                                <img class="grouped-content__card-icon" src="/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/icons-svg/Pictogram_Pet_Insurance_Paw_RGB_01.svg" alt="Flexible product offerings" aria-hidden="true"/>
+                            
+                            <h2 class="grouped-content__card-heading">
+                                Flexible product offerings<br />
+
+
+
+                            </h2>
+                            
+                                <div class="grouped-content__card-copy">
+                                    <div>Flexibility forcustomers toselect</div>
+<p>
+</p>
+
+                                </div>
+                            
+                            
+                        </div>
+                    
+                        <div class="grouped-content__card col-12 col-sm-6" role="region" aria-label="How MetLife Stands Out&lt;br />
+">
+                            
+                                <img class="grouped-content__card-icon" src="/content/dam/metlifecom/us/refresh-icons/MetLifeAboutUs/icon_governance_240X240.png" alt="Competitive rates with discounts" aria-hidden="true"/>
+                            
+                            <h2 class="grouped-content__card-heading">
+                                How MetLife Stands Out<br />
+
+                            </h2>
+                            
+                                <div class="grouped-content__card-copy">
+                                    <p>Customizable productofferings withstraightforward</p>
+
+                                </div>
+                            
+                            
+                        </div>
+                    
+                        <div class="grouped-content__card col-12 col-sm-6" role="region" aria-label="2022 Best Pet Insurance Winner&lt;br />
+">
+                            
+                                <img class="grouped-content__card-icon" src="/content/dam/metlifecom/us/refresh-icons/MetLifeAboutUs/awards_and_recognition.png" alt="MetLife&#39;s unmatched track record" aria-hidden="true"/>
+                            
+                            <h2 class="grouped-content__card-heading">
+                                2022 Best Pet Insurance Winner<br />
+
+                            </h2>
+                            
+                                <div class="grouped-content__card-copy">
+                                    <div>Dependable partnerwith 100years</div>
+
+                                </div>
+                            
+                            
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="value-prop parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/value-prop/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/value-prop/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+    <section class="component value-prop component__spacing-bottom   " role="region" aria-labelledby="value_prop_copy_copy--labelledby">
+        <div id="value_prop_copy_copy--labelledby" class="d-none" aria-hidden="true">How it Works</div>
+        <div class="gradiant-div"></div>
+        <div class="value-prop__wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-11 offset-md-1 value-prop__bar">
+                        <div class="value-prop__border"></div>
+                    </div>
+                </div>
+                <div class="header_panel row">
+                    
+                        <h2 class="col-8 offset-md-1 font-header-4 font-header-4-sm font-header-2-md value-prop__title">
+                            Pet Insurance — How It Works<br />
+
+                        </h2>
+                    
+                    <div class="col-4 col-md-2 value-prop__controls">
+                        <button class="carousel-control left js-leftClick" tabindex="0" aria-label="Previous">
+                            <svg class="icon brand-4th" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-left-chevron" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </button>
+                        <span class="updatepipe"></span>
+                        <button class="carousel-control right js-rightClick" tabindex="0" aria-label="Next">
+                            <svg class="icon brand-4th" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-right-chevron" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </button>
+                        <div class="valuePropAriaLiveReceptor sr-only" aria-live="polite" tabindex="-1" data-aria-live-receptor=" Slide Changed" data-aria-current-slide="Current Slide" data-aria-slide-of=" Slide Text" data-aria-total-slides=" Total Slide"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 offset-md-1 col-lg-11-offset-1-right-edge carousel-4-items no-carousel value-prop__item-container" data-aos="fade-left" data-aos-delay="350" data-aos-duration="750">
+                        
+                            <div class="value-prop__item col-md-3">
+                                <div class="value-prop__container">
+                                    
+                                        <div class="value-prop__item__bg">
+                                            <img src="/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/icons-svg/vet-nurse.svg" alt="" aria-hidden="true"/>
+                                        </div>
+                                    
+                                    <div class="value-prop__item__content  ">
+                                        
+                                            <div class="value-prop__item-image-title font-cta-2 font-content-link-1-sm">
+                                                <p>Take your pet to the vet</p>
+
+                                            </div>
+                                        
+                                        <div class="value-prop__item__description font-body-2 font-body-2-sm">
+                                            <p>Visit any licensed vet, emergency clinic or specialist in the U.S. There's no network of providers to worry about.</p>
+
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        
+                            <div class="value-prop__item col-md-3">
+                                <div class="value-prop__container">
+                                    
+                                        <div class="value-prop__item__bg">
+                                            <img src="/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/icons-svg/paper-and-pen.svg" alt="" aria-hidden="true"/>
+                                        </div>
+                                    
+                                    <div class="value-prop__item__content  ">
+                                        
+                                            <div class="value-prop__item-image-title font-cta-2 font-content-link-1-sm">
+                                                <p>Send us your claim</p>
+
+                                            </div>
+                                        
+                                        <div class="value-prop__item__description font-body-2 font-body-2-sm">
+                                            <p>Pay your pet's vet bill, and send us your claim along with vet records and invoice from the visit.</p>
+
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        
+                            <div class="value-prop__item col-md-3">
+                                <div class="value-prop__container">
+                                    
+                                        <div class="value-prop__item__bg">
+                                            <img src="/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/icons-svg/hand-holding-money.svg" alt="" aria-hidden="true"/>
+                                        </div>
+                                    
+                                    <div class="value-prop__item__content  ">
+                                        
+                                            <div class="value-prop__item-image-title font-cta-2 font-content-link-1-sm">
+                                                Get money back quickly<br />
+
+                                            </div>
+                                        
+                                        <div class="value-prop__item__description font-body-2 font-body-2-sm">
+                                            <p>MetLife will follow up with your vet for any missing info. Claims are typically processed in less than 2 weeks.<br />
+</p>
+
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+  </div>
+<div class="recirc-with-image parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/recirc-with-image/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/recirc-with-image/clientlibs.min.css" type="text/css">
+
+
+
+
+
+<div class="component recirc-with-image  " role="region" aria-labelledby="recirc_with_image_co--labelledBy">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1">
+                <div class="recirc-with-image__border"></div>
+            </div>
+            <div class="col-9 col-sm-8 col-md-5 offset-md-1 recirc-with-image__background"></div>
+            <div class="col-9 col-sm-8 col-md-5 offset-md-1">
+                <h3 id="recirc_with_image_co--labelledBy" class="recirc-with-image__title font-header-4 font-header-2-md">
+                    Want to learn more?<br />
+
+                </h3>
+            </div>
+            <div class="col-12 col-md-1 d-flex recirc-image--indicators">
+                <button class="carousel-control left js-leftClick" aria-label="Previous Slide">
+                    <svg class="icon" aria-hidden="true" tabindex="-1" focusable="false">
+                        <use xlink:href="/static/images/icons-metlife.svg#icon-left-chevron" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                    </svg>
+                </button>
+                <span class="updatepipe"></span>
+                <button class="carousel-control right js-rightClick" aria-label="Next Slide">
+                    <svg class="icon" aria-hidden="true" tabindex="-1" focusable="false">
+                        <use xlink:href="/static/images/icons-metlife.svg#icon-right-chevron" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                    </svg>
+                </button>
+                <div class="recircAriaLiveReceptor sr-only" aria-live="polite" aria-hidden="true" tabindex="-1" data-aria-live-receptor="Slide Changed" data-aria-current-slide="Current Slide" data-aria-slide-of="Slide" data-aria-total-slides="Slide"></div>
+            </div>
+            <div class="col-12 carousel-4-items  recirc-with-image__item-container" data-aos="fade-left" data-aos-delay="350" data-aos-duration="750">
+                
+                    
+                        <a class="recirc-with-image__item " href="/is-pet-insurance-worth-it/" target="_self">
+                            <div class="recirc-with-image__gradient"></div>
+                            <div class="recirc-with-image__item__bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/Hero/Dog_Recirc_405x405_5.webp')">
+                                <div class="recirc-with-image__item__content">
+                                    <div class="recirc-with-image__item-image-title analytics-title font-content-link-3">
+                                        Is Pet Insurance Worth It 
+                                    </div>
+                                    <div class="font-meta-3 recirc-with-image__item-readTime">5 min read</div>
+                                    
+                                </div>
+                            </div>
+                        </a>
+                    
+                
+                    
+                        <a class="recirc-with-image__item " href="/blog/pet-planning/my-pet-is-sick-and-i-can-t-afford-the-care-they-need/" target="_self">
+                            <div class="recirc-with-image__gradient"></div>
+                            <div class="recirc-with-image__item__bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/Hero/how-much-does-a-dog-vet-visit-cost-thumbnail.webp')">
+                                <div class="recirc-with-image__item__content">
+                                    <div class="recirc-with-image__item-image-title analytics-title font-content-link-3">
+                                        My Dog is Dying and I Can’t Afford a Vet 
+                                    </div>
+                                    <div class="font-meta-3 recirc-with-image__item-readTime">4 min read</div>
+                                    
+                                </div>
+                            </div>
+                        </a>
+                    
+                
+                    
+                        <a class="recirc-with-image__item " href="/blog/pet-planning/how-much-does-it-cost-to-own-a-dog/" target="_self">
+                            <div class="recirc-with-image__gradient"></div>
+                            <div class="recirc-with-image__item__bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/Hero/what-is-a-pet-insurance-deductible-inline-image.webp')">
+                                <div class="recirc-with-image__item__content">
+                                    <div class="recirc-with-image__item-image-title analytics-title font-content-link-3">
+                                        How Much Does a Dog Cost 
+                                    </div>
+                                    <div class="font-meta-3 recirc-with-image__item-readTime">4 min read</div>
+                                    
+                                </div>
+                            </div>
+                        </a>
+                    
+                
+                    
+                        <a class="recirc-with-image__item " href="/blog/pet-planning/cat-costs/" target="_self">
+                            <div class="recirc-with-image__gradient"></div>
+                            <div class="recirc-with-image__item__bg" style="background-image: url('/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/Hero/cat-ultrasound-cost-metlife-pet-insurance-thumbnail.webp')">
+                                <div class="recirc-with-image__item__content">
+                                    <div class="recirc-with-image__item-image-title analytics-title font-content-link-3">
+                                        How Much Does a Cat Cost 
+                                    </div>
+                                    <div class="font-meta-3 recirc-with-image__item-readTime">4 min read</div>
+                                    
+                                </div>
+                            </div>
+                        </a>
+                    
+                
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="faq parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/faq/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/faq/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+
+<section id="faq-1557127277" class="faq component component__spacing-bottom " role="region" aria-label=" FAQs">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1 faq-container responsive-columns">
+                <div class="faq-border"></div>
+                <div class="faq-container--titleSection">
+                    
+                        <h2 id="faq-1557127277--labelledby" class="faq-container--titleSection__title font-header-4 font-header-2-md">
+                            FAQs
+                        </h2>
+                    
+                    <div tabindex="0" role="button" aria-label=" FAQs" accorlabel=" FAQs- FAQs" class="faq-container--titleSection__toggle  d-none d-sm-flex d-md-flex d-lg-flex textLink-blue">
+                        
+                    </div>
+                </div>
+                
+                    <div class="faq-container--accordionSection">
+                        <div class="faq-container--accordionSection__title font-body-1 font-body-3-sm font-body-1-md" aria-label="How does insurance for a pet work?" tabindex="0" aria-expanded="false" role="button">
+                            <h3>How does insurance for a pet work?<br />
+</h3>
+                            <svg class="icon icon-plus accordion__title__icon" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-plus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                            <svg class="icon icon-minus accordion__title__icon icon-hide" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-minus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </div>
+                        <div class="faq-container--accordionContent font-body-2-sm font-body-3-md richtext" role="region" aria-label="How does insurance for a pet work?">
+                            <p>For a typically low monthly fee, pet health insurance helps to reimburse you for a portion of your vet bills, helping you pay for your dog or cat’s unexpected medical expenses. Insurance plans typically don’t cover pre-existing conditions, which is why it’s a great idea to sign up your dog or cat when they are healthy.<sup>2</sup> <a href="https://www.metlifepetinsurance.com/how-pet-insurance-works/">Learn more about how pet insurance works</a></p>
+
+                        </div>
+                    </div>
+                
+                    <div class="faq-container--accordionSection">
+                        <div class="faq-container--accordionSection__title font-body-1 font-body-3-sm font-body-1-md" aria-label="What are pre-existing conditions?" tabindex="0" aria-expanded="false" role="button">
+                            <h3>What are pre-existing conditions?</h3>
+                            <svg class="icon icon-plus accordion__title__icon" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-plus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                            <svg class="icon icon-minus accordion__title__icon icon-hide" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-minus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </div>
+                        <div class="faq-container--accordionContent font-body-2-sm font-body-3-md richtext" role="region" aria-label="What are pre-existing conditions?">
+                            <p>Pre-existing conditions are typically injuries or illnesses, or symptoms that occurred prior to your coverage start date and any applicable waiting period. <a href="https://www.metlifepetinsurance.com/pre-existing-condition/">Learn more about pre-existing conditions</a>, and reference your policy for full details. </p>
+
+                        </div>
+                    </div>
+                
+                    <div class="faq-container--accordionSection">
+                        <div class="faq-container--accordionSection__title font-body-1 font-body-3-sm font-body-1-md" aria-label="How much will this cost me? " tabindex="0" aria-expanded="false" role="button">
+                            <h3>How much will this cost me? </h3>
+                            <svg class="icon icon-plus accordion__title__icon" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-plus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                            <svg class="icon icon-minus accordion__title__icon icon-hide" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-minus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </div>
+                        <div class="faq-container--accordionContent font-body-2-sm font-body-3-md richtext" role="region" aria-label="How much will this cost me? ">
+                            <p>The cost of pet insurance depends on a variety of factors, including the species, breed, sex<sup>3</sup>, and age of your pet. Where you live also helps determine what you pay. The type of coverage you need will affect costs, too. Learn more about pet insurance costs or <a href="https://quote.metlifepetinsurance.com/pet?partnerId=999999">get a free quote</a>.<br />
+</p>
+
+                        </div>
+                    </div>
+                
+                    <div class="faq-container--accordionSection">
+                        <div class="faq-container--accordionSection__title font-body-1 font-body-3-sm font-body-1-md" aria-label="Do I have to use a specific vet? " tabindex="0" aria-expanded="false" role="button">
+                            <h3>Do I have to use a specific vet? </h3>
+                            <svg class="icon icon-plus accordion__title__icon" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-plus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                            <svg class="icon icon-minus accordion__title__icon icon-hide" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-minus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </div>
+                        <div class="faq-container--accordionContent font-body-2-sm font-body-3-md richtext" role="region" aria-label="Do I have to use a specific vet? ">
+                            <p>Nope, you can use any licensed vet in the U.S.! Unlike with human health insurance, there is no such thing as “in-network” and “out-of-network” providers. So if you have a vet that you currently love, there is no need to switch.</p>
+
+                        </div>
+                    </div>
+                
+                    <div class="faq-container--accordionSection">
+                        <div class="faq-container--accordionSection__title font-body-1 font-body-3-sm font-body-1-md" aria-label="I have a senior pet, is it too late to get insurance?" tabindex="0" aria-expanded="false" role="button">
+                            <h3>I have a senior pet, is it too late to get insurance?</h3>
+                            <svg class="icon icon-plus accordion__title__icon" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-plus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                            <svg class="icon icon-minus accordion__title__icon icon-hide" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-minus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </div>
+                        <div class="faq-container--accordionContent font-body-2-sm font-body-3-md richtext" role="region" aria-label="I have a senior pet, is it too late to get insurance?">
+                            <p>It’s never too late to make sure your pet has coverage. With no age restrictions, we are here for even our most silver of seniors and can help with everything from end-of-life care to grief counseling.</p>
+
+                        </div>
+                    </div>
+                
+                    <div class="faq-container--accordionSection">
+                        <div class="faq-container--accordionSection__title font-body-1 font-body-3-sm font-body-1-md" aria-label="Are any breeds unable to get insurance?" tabindex="0" aria-expanded="false" role="button">
+                            <h3>Are any breeds unable to get insurance?</h3>
+                            <svg class="icon icon-plus accordion__title__icon" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-plus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                            <svg class="icon icon-minus accordion__title__icon icon-hide" aria-hidden="true" tabindex="-1" focusable="false">
+                                <use xlink:href="/static/images/icons-metlife.svg#icon-minus-cxd" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </div>
+                        <div class="faq-container--accordionContent font-body-2-sm font-body-3-md richtext" role="region" aria-label="Are any breeds unable to get insurance?">
+                            <p>We have zero breed exclusions, whether you have a <a href="https://www.metlifepetinsurance.com/blog/breed-spotlights/golden-doodle/">golden doodle</a> prone to hip dysplasia or a <a href="https://www.metlifepetinsurance.com/blog/breed-spotlights/breed-spotlight-scottish-fold/">scottish fold</a> prone to kidney disease. </p>
+
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+<div class="report-breaker parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/report-breaker/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/report-breaker/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+<section id="report-breaker-904215755" class="report-breaker component component__spacing-bottom " role="region" aria-labelledby="report-breaker-904215755--labelledby">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 offset-md-1 responsive-columns">
+                <div class="report-breaker__container">
+                    <div class="row">
+                        <div class="col-12 col-md-8 report-breaker__left">
+                            <div class="report-breaker__left-border">
+                                <div class="row">
+                                    <div class="col-12 col-sm-8 offset-sm-2 col-md-12 offset-md-0">
+                                        <div class="report-breaker__left-container">
+                                            <h2 id="report-breaker-904215755--labelledby" class="report-breaker__headline-left font-header-4 font-header-5-sm font-header-4-md" aria-label="We can help handle the vet bill. You handle the belly rubs.&amp;nbsp;&lt;br>
+">
+                                                We can help handle the vet bill. You handle the belly rubs. <br />
+
+                                            </h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 report-breaker__right">
+                            <div class="report-breaker__right-border">
+                                <div class="row">
+                                    <div class="col-12 col-sm-8 offset-sm-2 col-md-12 offset-md-0">
+                                        <div class="report-breaker__right-container">
+                                            <div class="report-breaker__headline-right font-desc-3 font-desc-2-md">
+                                                Get a quote now
+                                            </div>
+                                            
+                                                <div class="report-breaker__button">
+                                                    <a class="report-breaker__link textLink-blue" href="https://quote.metlifepetinsurance.com/get-a-quote/pet/?enrollment_code=99-99-00-9998&source=238bc0d5732149653f5de148a0b33e94a75b8bb995b58d474088&petname=dwwe" target="_blank" aria-label="Get Quote">
+                                                        <span aria-hidden="true" tabindex="-1">Fetch Quote</span>
+                                                        <svg class="icon icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false">
+                                                            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right-textlink" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                                                        </svg>
+                                                    </a>
+                                                </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+<div class="tool-panel parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/tool-panel/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/tool-panel/clientlibs.min.css" type="text/css">
+
+
+
+
+
+
+
+<section id="tool-panel-1869599430" class="tool-panel component component__spacing-bottom " role="region" aria-labelledby="tool-panel-1869599430--labelledby">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1 tool-panel__container responsive-columns">
+                <div class="tool-panel__border"></div>
+                <div class="tool-panel__header">
+                    <div class="row">
+                        <div class="col-12 col-sm-4 tool-panel__title">
+                            <h3 id="tool-panel-1869599430--labelledby" class="font-header-4 font-header-2-md">
+                                Need Help?
+                            </h3>
+                        </div>
+                        <div class="col-12 col-sm-8 tool-panel__subtitle font-body-1 font-body-1-md">
+                            <p>Here are some great resources for existing policyholders. <br />
+</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="tool-panel__content">
+                    <ul class="row listStyle_none">
+                        
+                            
+                                <li class="col-12 col-sm tool-panel__panel">
+                                    <a class="tool-panel__link" href="/mobile-app/" target="_blank">
+                                        <img class="tool-panel__link-image" src="/content/dam/metlifecom/global/web-icons/hr/utility-1_quote-phone_120p_HVR.svg" alt=""/>
+                                        <span class="tool-panel__link-text textLink-black">
+                                        Download the MetLife Pet App
+                                    </span>
+                                    </a>
+                                    <div class="tool-panel__link-border"></div>
+                                </li>
+                            
+                                <li class="col-12 col-sm tool-panel__panel">
+                                    <a class="tool-panel__link" href="/coverage-exclusions/" target="_self">
+                                        <img class="tool-panel__link-image" src="/content/dam/metlifecom/us/metlifepetinsurance/images/pet-insurance/icons-svg/hand-holding-money.svg" alt=""/>
+                                        <span class="tool-panel__link-text textLink-black">
+                                        Understand Coverage
+                                    </span>
+                                    </a>
+                                    <div class="tool-panel__link-border"></div>
+                                </li>
+                            
+                                <li class="col-12 col-sm tool-panel__panel">
+                                    <a class="tool-panel__link" href="/resources/" target="_self">
+                                        <img class="tool-panel__link-image" src="/content/dam/metlifecom/global/web-icons/about-us/au_newsroom_120p_HVR.svg" alt=""/>
+                                        <span class="tool-panel__link-text textLink-black">
+                                        Explore articles and resources
+                                    </span>
+                                    </a>
+                                    <div class="tool-panel__link-border"></div>
+                                </li>
+                            
+                                <li class="col-12 col-sm tool-panel__panel">
+                                    <a class="tool-panel__link" href="/claims/" target="_self">
+                                        <img class="tool-panel__link-image" src="/content/dam/metlifecom/global/web-icons/support/support_file-a-claim_120p_HVR.svg" alt=""/>
+                                        <span class="tool-panel__link-text textLink-black">
+                                        Filing Pet Insurance Claims
+                                    </span>
+                                    </a>
+                                    <div class="tool-panel__link-border"></div>
+                                </li>
+                            
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section></div>
+<div class="disclaimer parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/disclaimer/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/disclaimer/clientlibs.min.css" type="text/css">
+
+
+
+
+<div class="component disclaimer bg-gray ">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-10 offset-md-1">
+                <div class="disclaimer-text font-body-2 font-body-4-sm font-body-5-md" aria-label="Disclaimer" role="region">
+                    <p><sup>1</sup> Accident and optional Preventive Care coverage begins on midnight EST of the effective day of your policy is compared to a wait time of 2 to 15 days for many competitors; Illness coverage begins 14 days from the effective day of your policy compared to 14 to 30 days for many competitors. Competitive information is based on a January 2022 review of publicly available summary information. Competitors did not furnish copies of their policies for review. If you have questions about a particular competitor's policy or coverage, please contact them or their representative directly.</p>
+<p><sup>2</sup> Please note that MetLife Pet provides coverage for previously covered pre-existing conditions when switching providers</p>
+<p><sup>3</sup> For IAIC policies only</p>
+<p><i>Coverage underwritten and issued by Independence American Insurance Company (“IAIC”), a Delaware insurance company, headquartered at 11333 N Scottsdale Rd, Ste 160, Scottsdale, AZ 85254 or Metropolitan General Insurance Company (“MetGen”), a Rhode Island insurance company, headquartered at 700 Quaker Lane, Warwick, RI 02886. Coverage subject to restrictions, exclusions and limitations. Application is subject to underwriting review. See policy or contact MetLife Pet Insurance Solutions LLC for details. MetLife Pet Insurance Solutions LLC is the policy administrator for this coverage. The entity may operate under an alternate, assumed, and/or fictitious name in certain jurisdictions as approved, including MetLife Pet Insurance Services LLC (New York and Minnesota), MetLife Pet Insurance Solutions Agency LLC (Illinois).</i></p>
+<p><a href="https://www.metlifepetinsurance.com/content/dam/metlifecom/us/metlifepetinsurance/Maine-Disclosure-Notice.pdf" target="_blank">Disclosure for Maine Residents</a><br>
+<a href="/content/dam/metlifecom/us/metlifepetinsurance/images/blog/Insurance/Online-Disclosure-of-Important-Policy-Provisions.pdf" target="_blank">Disclosure for California Residents</a></p>
+<p><i>L1222027809[exp1224][All States][DC,GU,MP,PR,VI]<a href="/content/dam/metlifecom/us/metlifepetinsurance/Disclosure-notice-maine-metlife.docx"></a></i><br>
+</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+    
+</div>
+</div>
+<div class="experience-fragment experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experience-fragment-e3bd13bacb" class="cmp-experiencefragment cmp-experiencefragment--global_footer">
+
+    
+
+
+
+<div class="xf-content-height">
+    
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+    <script type="text/javascript" src="/etc.clientlibs/globalmarketingplatform/components/content/footer/clientlibs.min.js" defer></script>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/globalmarketingplatform/components/content/footer/clientlibs.min.css" type="text/css">
+
+
+
+
+
+<footer class="footer">
+    <div class="footer__section1 secondary-links">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-10 offset-md-1">
+                    
+
+
+
+<div class="footer-logo">
+    <a class="footer-logo__link" href="/" target="_self" aria-label="MetLife Footer Logo">
+        <img class="footer-logo__image" src="/content/dam/metlifecom/us/icons-header/MetLife.png" alt="MetLife Footer Logo"/>
+    </a>
+</div>
+                </div>
+            </div>
+            <div class="row">
+                
+                    <div class="col-12 col-md-6 offset-md-1">
+                        
+
+
+
+<div class="footer-primary-links">
+    <div class="row">
+        
+            <div class="col-12 col-sm footer-primary-links__column">
+                <div class="footer-primary-links__category">
+                    <div class="footer-primary-links__category-label">
+                        <p class="font-cta-1 font-eyebrow-4-md">Quick Links</p>
+                        <svg class="icon icon-chevron-down d-sm-none" aria-hidden="true" focusable="false" tabindex="-1">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-down" aria-hidden="true" focusable="false" tabindex="-1"></use>
+                        </svg>
+                    </div>
+                    <div class="footer-primary-links__category-container">
+                        
+                            <div class="footer-primary-links__category-link">
+                                <a class="font-desc-2 font-meta-1-md" href="/dog-insurance/" target="_self">
+                                    Dog &amp; Puppy Insurance
+                                </a>
+                            </div>
+                        
+                            <div class="footer-primary-links__category-link">
+                                <a class="font-desc-2 font-meta-1-md" href="/cat-insurance/" target="_self">
+                                    Cat &amp; Kitten Insurance
+                                </a>
+                            </div>
+                        
+                            <div class="footer-primary-links__category-link">
+                                <a class="font-desc-2 font-meta-1-md" href="/faqs/" target="_self">
+                                    Frequently Asked Questions
+                                </a>
+                            </div>
+                        
+                            <div class="footer-primary-links__category-link">
+                                <a class="font-desc-2 font-meta-1-md" href="/claims/" target="_self">
+                                    How to File a Claim
+                                </a>
+                            </div>
+                        
+                            <div class="footer-primary-links__category-link">
+                                <a class="font-desc-2 font-meta-1-md" href="/metlife-pet-insurance-rewards-program/" target="_self">
+                                    Rewards Program 
+                                </a>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+</div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        
+
+
+
+<div class="footer-secondary-links">
+    
+        <div class="footer-secondary-links__link">
+            <a class="font-cta-1 font-eyebrow-4-md" href="/" target="_self">
+                PET INSURANCE
+            </a>
+        </div>
+    
+        <div class="footer-secondary-links__link">
+            <a class="font-cta-1 font-eyebrow-4-md" href="/resources/" target="_self">
+                PET CARE RESOURCES
+            </a>
+        </div>
+    
+        <div class="footer-secondary-links__link">
+            <a class="font-cta-1 font-eyebrow-4-md" href="/customer-support/" target="_blank">
+                CUSTOMER SUPPORT &amp; CLAIMS
+            </a>
+        </div>
+    
+        <div class="footer-secondary-links__link">
+            <a class="font-cta-1 font-eyebrow-4-md" href="https://mypets.metlife.com/Account/Login" target="_self">
+                MYPETS LOGIN
+            </a>
+        </div>
+    
+        <div class="footer-secondary-links__link">
+            <a class="font-cta-1 font-eyebrow-4-md" href="/mobile-app/" target="_self">
+                METLIFE PET MOBILE APP
+            </a>
+        </div>
+    
+</div>
+                    </div>
+                
+                
+            </div>
+        </div>
+    </div>
+    <div class="footer__section2 social-media">
+        <div class="container">
+            <div class="row">
+                
+                    <div class="col-12 col-sm-8 col-md-7 offset-md-1">
+                        
+
+
+
+<div class="footer-social-media">
+    
+        <a class="footer-social-media__link" href="https://www.facebook.com/MetLifePetInsurance/" target="_blank" title="This is a Link for Facebook" aria-label="This is a Link for Facebook">
+            <svg class="icon icon-facebook" role="img">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-facebook"></use>
+            </svg>
+        </a>
+    
+        <a class="footer-social-media__link" href="https://twitter.com/MetLife_Pet" target="_blank" title="This is a Link for Twitter" aria-label="This is a Link for Twitter">
+            <svg class="icon icon-twitter" role="img">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-twitter"></use>
+            </svg>
+        </a>
+    
+        <a class="footer-social-media__link" href="https://www.linkedin.com/company/metlifepetinsurance/mycompany/" target="_blank" title="This is a Link for LinkedIn" aria-label="This is a Link for LinkedIn">
+            <svg class="icon icon-linkedin" role="img">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-linkedin"></use>
+            </svg>
+        </a>
+    
+        <a class="footer-social-media__link" href="https://www.youtube.com/channel/UCJ_jvTmTWfl4ky3JREKk25A" target="_blank" title="This is a Link for YouTube" aria-label="This is a Link for YouTube">
+            <svg class="icon icon-youtube" role="img">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-youtube"></use>
+            </svg>
+        </a>
+    
+</div>
+                    </div>
+                    
+                        <div class="col-12 col-sm-4 col-md-3">
+                             
+
+
+
+<div class="footer-country-selector font-body-4">
+	<span class="sr-only" id="country_select">Select Country</span>
+    <div role="button" aria-expanded="false" tabindex="0" aria-labelledby="country_select country_name" class="footer-country-selector__country-select">
+        <div class="footer-country-selector__country-default">
+            
+                
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--USA"></span>
+                    <div class="footer-country-selector__country-name" id="country_name">USA</div>
+                
+                
+            
+            <svg class="icon icon-caret-down" role="img" aria-hidden="true" tabindex="-1" focusable="false">
+                <use xlink:href="/static/images/icons-metlife.svg#icon-caret-down" aria-hidden="true" tabindex="-1" focusable="false"></use>
+            </svg>
+        </div>
+    </div>
+    <div class="footer-country-selector__country-list" data-last-country-label="End of Country List" tabindex="-1" role="region" aria-label="Country">
+        
+        
+            <div class="footer-country-selector__country-header">
+                <span class="footer-country-selector__country-region">Americas</span>
+            </div>
+        
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--USA"></span>
+                    <div class="footer-country-selector__country-name">USA</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.ar/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Argentina"></span>
+                    <div class="footer-country-selector__country-name">Argentina</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.br/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Brazil"></span>
+                    <div class="footer-country-selector__country-name">Brazil</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://w3.metlife.cl/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Chile"></span>
+                    <div class="footer-country-selector__country-name">Chile</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.provida.cl/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Chile-ProVida"></span>
+                    <div class="footer-country-selector__country-name">Chile ProVida</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.co/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Colombia"></span>
+                    <div class="footer-country-selector__country-name">Colombia</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.mx/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Mexico"></span>
+                    <div class="footer-country-selector__country-name">Mexico</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.uy/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Uruguay"></span>
+                    <div class="footer-country-selector__country-name">Uruguay</div>
+                </a>
+            
+        
+
+        
+        
+            <div class="footer-country-selector__country-header">
+                <span class="footer-country-selector__country-region">Asia</span>
+            </div>
+        
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.au">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Australia"></span>
+                    <div class="footer-country-selector__country-name">Australia</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.bd/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Bangladesh"></span>
+                    <div class="footer-country-selector__country-name">Bangladesh</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.cn/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--China"></span>
+                    <div class="footer-country-selector__country-name">China</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.pnbmetlife.com">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--India"></span>
+                    <div class="footer-country-selector__country-name">India</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.co.jp/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Japan"></span>
+                    <div class="footer-country-selector__country-name">Japan</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.co.kr/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Korea"></span>
+                    <div class="footer-country-selector__country-name">Korea</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.ammetlife.com/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Malaysia"></span>
+                    <div class="footer-country-selector__country-name">Malaysia</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.np/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Nepal"></span>
+                    <div class="footer-country-selector__country-name">Nepal</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.bidvmetlife.com.vn/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Vietnam"></span>
+                    <div class="footer-country-selector__country-name">Vietnam</div>
+                </a>
+            
+        
+
+        
+        
+            <div class="footer-country-selector__country-header">
+                <span class="footer-country-selector__country-region">Europe</span>
+            </div>
+        
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.bg">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Bulgaria"></span>
+                    <div class="footer-country-selector__country-name">Bulgaria</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.cy/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Cyprus"></span>
+                    <div class="footer-country-selector__country-name">Cyprus</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.cz/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Czech-Republic"></span>
+                    <div class="footer-country-selector__country-name">Czech Republic</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.fr/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--France"></span>
+                    <div class="footer-country-selector__country-name">France</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.gr/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Greece"></span>
+                    <div class="footer-country-selector__country-name">Greece</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.hu/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Hungary"></span>
+                    <div class="footer-country-selector__country-name">Hungary</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com/ireland-careers">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Ireland"></span>
+                    <div class="footer-country-selector__country-name">Ireland</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.it/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Italy"></span>
+                    <div class="footer-country-selector__country-name">Italy</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.pl">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Poland"></span>
+                    <div class="footer-country-selector__country-name">Poland</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.pt/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Portugal"></span>
+                    <div class="footer-country-selector__country-name">Portugal</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metropolitanlife.ro">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Romania"></span>
+                    <div class="footer-country-selector__country-name">Romania</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.ru/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Russia"></span>
+                    <div class="footer-country-selector__country-name">Russia</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.sk/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Slovakia"></span>
+                    <div class="footer-country-selector__country-name">Slovakia</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.es/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Spain"></span>
+                    <div class="footer-country-selector__country-name">Spain</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.tr/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Turkey"></span>
+                    <div class="footer-country-selector__country-name">Turkey</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.ua/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Ukraine"></span>
+                    <div class="footer-country-selector__country-name">Ukraine</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.co.uk">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--United-Kingdom"></span>
+                    <div class="footer-country-selector__country-name">United Kingdom</div>
+                </a>
+            
+        
+
+        
+        
+            <div class="footer-country-selector__country-header">
+                <span class="footer-country-selector__country-region">Middle East and Africa</span>
+            </div>
+        
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife-gulf.com/bahrain/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Bahrain"></span>
+                    <div class="footer-country-selector__country-name">Bahrain</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.eg/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Egypt"></span>
+                    <div class="footer-country-selector__country-name">Egypt</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.jo/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Jordan"></span>
+                    <div class="footer-country-selector__country-name">Jordan</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife-gulf.com/kuwait/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Kuwait"></span>
+                    <div class="footer-country-selector__country-name">Kuwait</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.com.lb/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Lebanon"></span>
+                    <div class="footer-country-selector__country-name">Lebanon</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife-gulf.com/oman/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Oman"></span>
+                    <div class="footer-country-selector__country-name">Oman</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife-gulf.com/qatar/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--Qatar"></span>
+                    <div class="footer-country-selector__country-name">Qatar</div>
+                </a>
+            
+        
+            
+                <a class="footer-country-selector__country-group" target="_self" href="https://www.metlife.ae/">
+                    <span class="footer-country-selector__country-flag footer-country-selector__country-flag--United-Arab-Emirates"></span>
+                    <div class="footer-country-selector__country-name">United Arab Emirates</div>
+                </a>
+            
+        
+    </div>
+</div>
+
+                        </div>
+                    
+                
+                
+            </div>
+            <div class="row">
+                <div class="col-12 col-md-7 offset-md-1">
+                    
+
+
+<div class="footer-info">
+    
+        <div class="footer-info__contact font-cta-2">
+            <a class="footer-info__contact-link" href="tel:+18552707387" target="_self">
+                1-855-270-7387
+            </a>
+        </div>
+    
+    
+        <div class="footer-info__legal-links font-cta-4">
+            
+                <a class="footer-info__legal-link" href="https://www.metlife.com/about-us/privacy-policy/online-privacy-policy/" target="_blank">
+                    Privacy Policy
+                </a>
+            
+                <a class="footer-info__legal-link" href="/terms-and-conditions/" target="_self">
+                    Legal Notices
+                </a>
+            
+        </div>
+    
+    
+        <div class="footer-info__legal-disclaimer font-body-2 font-body-4-sm font-body-5-md">
+            <p>© 2023 MetLife Services and Solutions, LLC,<br>
+New York, NY 10166 - All Rights Reserved.</p>
+
+        </div>
+    
+    
+</div>
+
+                </div>
+                
+                    <div class="col-12 col-md-3">
+                        
+
+
+
+<div class="footer-additional-content">
+    <p><a title="Naphia" href="https://naphia.org/" target="_blank"><img src="/content/dam/metlifecom/us/metlifepetinsurance/images/NAPHIA-logo.webp" alt="Naphia Logo"/></a> </p>
+<p><b>Call Center Hours</b></p>
+<p>Monday-Friday, 8am - 9pm EST<br />
+Saturday, 10am - 7pm EST<br />
+Sunday, 10am - 7pm EST</p>
+<p><b>Mail</b></p>
+<p>MetLife Pet Insurance<br />
+400 Missouri Avenue<br />
+Suite 105<br />
+Jeffersonville, IN 47130</p>
+<p><b>Phone</b></p>
+<p class="pet_phonenumber">855.270.7387<br />
+</p>
+<p><b>Fax</b></p>
+<p>877.281.3348</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+
+</div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</footer></div>
+
+    
+</div>
+
+</div></div>
+
+
+
+    
+
+
+
+
+    
+</div>
+
+    
+</div>
+</div>
+
+    
+
+
+
+
+    
+        <script type="text/javascript" src="/content/dam/metlifecom/us/metlifepetinsurance/scripts/js/livechat/Five9SocialWidget.js" defer></script>
+    
+        <script type="text/javascript" src="/content/dam/metlifecom/us/metlifepetinsurance/scripts/js/alert-notification/pet-alert-message-v1.js" defer></script>
+    
+
+
+
+
+
+
+    
+        <script type="text/javascript" src="/content/dam/metlifecom/us/metlifepetinsurance/scripts/js/pet-insurance-vjake3.js" defer></script>
+    
+
+
+
+    
+        <link rel="stylesheet" href="/content/dam/metlifecom/us/metlifepetinsurance/scripts/css/pet-insurance.css"/>
+    
+
+    
+    
+</body>
+</html>
