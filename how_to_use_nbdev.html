@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.433">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="This tutorial shows you how to use nbdev">
+
+<title>jerryweijin.github.io - How to Use nbdev</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="jerryweijin.github.io - How to Use nbdev">
+<meta property="og:description" content="This tutorial shows you how to use nbdev">
+<meta property="og:image" content="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/cfb1b4acd766bca242f807fd1a3f693f31810c8c/images/Create_Github_Repo.jpeg">
+<meta property="og:site-name" content="jerryweijin.github.io">
+<meta name="twitter:title" content="jerryweijin.github.io - How to Use nbdev">
+<meta name="twitter:description" content="This tutorial shows you how to use nbdev">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/cfb1b4acd766bca242f807fd1a3f693f31810c8c/images/Create_Github_Repo.jpeg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">jerryweijin.github.io</span>
+    </a>
+  </div>
+        <div class="quarto-navbar-tools ms-auto">
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./how_to_use_nbdev.html">How to Use nbdev</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Learning Journal</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./build_a_image_classifier_from_scratch.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Build a Image Classifier From Scratch</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./how_to_build_a_multi_label_classifier.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">How to Create a Multi-label Classifier</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./how_to_build_a_multi_class_classifier.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">How to Create a Multi-class Image Classifier</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./how_to_create_a_binary_class_classifier.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">How to Create an Image Classifer</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./how_to_use_nbdev.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">How to Use nbdev</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./image_regression.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Image Regression</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#what-is-nbdev" id="toc-what-is-nbdev" class="nav-link active" data-scroll-target="#what-is-nbdev">What is nbdev</a></li>
+  <li><a href="#install-nbdev" id="toc-install-nbdev" class="nav-link" data-scroll-target="#install-nbdev">Install nbdev</a></li>
+  <li><a href="#create-a-github-repo" id="toc-create-a-github-repo" class="nav-link" data-scroll-target="#create-a-github-repo">Create a Github Repo</a></li>
+  <li><a href="#clone-your-repo" id="toc-clone-your-repo" class="nav-link" data-scroll-target="#clone-your-repo">Clone Your Repo</a></li>
+  <li><a href="#initialize-the-project-with-nbdev" id="toc-initialize-the-project-with-nbdev" class="nav-link" data-scroll-target="#initialize-the-project-with-nbdev">Initialize the Project with nbdev</a></li>
+  <li><a href="#make-your-first-commit" id="toc-make-your-first-commit" class="nav-link" data-scroll-target="#make-your-first-commit">Make Your First Commit</a></li>
+  <li><a href="#install-your-package" id="toc-install-your-package" class="nav-link" data-scroll-target="#install-your-package">Install Your Package</a></li>
+  <li><a href="#make-your-first-edit" id="toc-make-your-first-edit" class="nav-link" data-scroll-target="#make-your-first-edit">Make Your First Edit</a></li>
+  <li><a href="#run-nbdev_prepare-before-every-commit" id="toc-run-nbdev_prepare-before-every-commit" class="nav-link" data-scroll-target="#run-nbdev_prepare-before-every-commit">Run nbdev_prepare Before Every Commit</a></li>
+  <li><a href="#learn-more" id="toc-learn-more" class="nav-link" data-scroll-target="#learn-more">Learn More</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/jerryweijin/jerryweijin.github.io/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">How to Use nbdev</h1>
+</div>
+
+<div>
+  <div class="description">
+    This tutorial shows you how to use nbdev
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<!-- WARNING: THIS FILE WAS AUTOGENERATED! DO NOT EDIT! -->
+<section id="what-is-nbdev" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-nbdev">What is nbdev</h2>
+<p>nbdev is a python tool developed by fastai to streamline your developemnt with Jupyter Notebook. Its main features are:</p>
+<ol type="1">
+<li>You write your codes, documentation, and test cases all in notebooks.</li>
+<li>nbdev exports the code parts of notebooks into python scripts, build them into a package, and upload the package to PyPI or Anaconda.</li>
+<li>nbdev converts the documentation parts of notebooks into a website and host the website on Github Pages.</li>
+<li>nbdev does unit testing by running your test cases</li>
+<li>nbdev makes Jupyter Notebook Git friendly. It solves all the problems when using Jupyter Notebook with Git.</li>
+<li>nbdev allows you to set up Actions on Github to support continuous integration</li>
+</ol>
+<p>Now you know what nbdev is and the benefits of using nbdev, let’s see how to use it.</p>
+</section>
+<section id="install-nbdev" class="level2">
+<h2 class="anchored" data-anchor-id="install-nbdev">Install nbdev</h2>
+<p>Before you can use nbdev, you need to install it. If you use conda, type</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">conda</span> install <span class="at">-c</span> fastai nbdev</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>If you use pip, type</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">pip</span> install nbdev</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="create-a-github-repo" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-github-repo">Create a Github Repo</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Using Github is not required to use nbdev. If you don’t use Github, you can skip this step.</p>
+</div>
+</div>
+<p>Go to your Github account and create a new repo. I created a repo called nbdev_demo for this tutorial. You don’t need to check the Add a README file checkbox as nbdev will create the README file for you.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/cfb1b4acd766bca242f807fd1a3f693f31810c8c/images/Create_Github_Repo.jpeg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Create_Github_Repo</figcaption>
+</figure>
+</div>
+<p>Your repo is now empty</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Empty_Repo.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Empty_Repo</figcaption>
+</figure>
+</div>
+</section>
+<section id="clone-your-repo" class="level2">
+<h2 class="anchored" data-anchor-id="clone-your-repo">Clone Your Repo</h2>
+<p>Next you clone the repo to your computer. I used Github Desktop as I prefer a GUI interface. You can also use the command line to clone the repo.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Clone_Repo.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Clone Repo</figcaption>
+</figure>
+</div>
+</section>
+<section id="initialize-the-project-with-nbdev" class="level2">
+<h2 class="anchored" data-anchor-id="initialize-the-project-with-nbdev">Initialize the Project with nbdev</h2>
+<p>Aftering cloning the repo, the next thing to do is to initialize the project with nbdev. Go to the repo</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> nbdev_demo</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>and run</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">nbdev_new</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>nbdev will add some files to your repo.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Files.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Files</figcaption>
+</figure>
+</div>
+<p>The nbs folder stores all your notebooks. nbdev creates a folder with the same name as your repo. In my case, the folder is called nbdev_demo. This folder stores all the python scripts that are exported from the notebooks. The _proc folder stores the documentation files for your site (e.g.&nbsp;html files) that are generated from your notebooks using Quarto. settings.ini and setup.py are used to generate your python package. You can also see that nvdev adds a README file and a LICENSE file for you.</p>
+<p>After running nbdev_new, I usually run nbdev_install_hooks right after because I know I will be using Git.</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">nbdev_install_hooks</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>You can think of hooks as an extension to nbdev. Jupyter notebooks are not Git friendly. Git is designed to use with plain text files. Jupyter Notebook uses JSON as its format. When using Jupyter Notebook with Git, there will be some problems. Citing from the nbdev official website, here is what hooks do for you:</p>
+<blockquote class="blockquote">
+<ul>
+<li>Fix broken notebooks due to git merge conflicts so that they can be opened and resolved directly in Jupyter.</li>
+<li>Each time you save a Jupyter notebook, automatically clean unwanted metadata to remove unnecessary changes in pull requests and reduce the chance of git merge conflicts.</li>
+<li>Automatically trust notebooks in the repo so that you can view widgets from collaborators’ commits. For this reason, you should not install hooks into a repo you don’t trust.</li>
+</ul>
+</blockquote>
+</section>
+<section id="make-your-first-commit" class="level2">
+<h2 class="anchored" data-anchor-id="make-your-first-commit">Make Your First Commit</h2>
+<p>Now your repo is set up. We can make the first commit and push to Github.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/First_Commit.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">First_Commit</figcaption>
+</figure>
+</div>
+<p>Navigate to the Action tab and you should see two workflows have been executed. These workflows are added by nbdev to help continous integration.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Workflow_Run.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Workflow_Run</figcaption>
+</figure>
+</div>
+<p>nbdev hosts your documentation site on Github Pages. To enable Pages for your project, go to Settings and click Pages from the left menu. Select the branch gh-pages and save the change.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Enable_Github_Page.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Enable_Github_Page</figcaption>
+</figure>
+</div>
+<p>You should see another workflow has been executed.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Page_Build_Workflow.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Page_Build_Workflow</figcaption>
+</figure>
+</div>
+<p>You can check your documentation site on [your_username].github.io/[your_repo_name]</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Doc_Site.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Doc_Site</figcaption>
+</figure>
+</div>
+</section>
+<section id="install-your-package" class="level2">
+<h2 class="anchored" data-anchor-id="install-your-package">Install Your Package</h2>
+<p>If your project consists of multiple python scripts, you probably want to import them into your notebooks. To do that install your package using the editable mode.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode sh code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">pip</span> install <span class="at">-e</span> <span class="st">'.[dev]'</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>That way when you change your source files, you don’t need to reinstall the package. Simply restart the notebook kernal to see the changes take effect.</p>
+</section>
+<section id="make-your-first-edit" class="level2">
+<h2 class="anchored" data-anchor-id="make-your-first-edit">Make Your First Edit</h2>
+<p>Now it is time to do development on the notebooks. To demonstrate, I have updated the foo function in 00_core.ipynb to print out Hello World and called this function in index.ipynb.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/First_edit.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">First_edit</figcaption>
+</figure>
+</div>
+<p>Then commited and pushed to Github. You can see the site was updated.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Doc_Site_Updated.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Doc_Site_Updated</figcaption>
+</figure>
+</div>
+<p>Checking on the Action tab, there was a worflow failed to execute. What was wrong?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Second_Commit.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Second_Commit</figcaption>
+</figure>
+</div>
+</section>
+<section id="run-nbdev_prepare-before-every-commit" class="level2">
+<h2 class="anchored" data-anchor-id="run-nbdev_prepare-before-every-commit">Run nbdev_prepare Before Every Commit</h2>
+<p>To avoid the error, remember to run nbdev_prepare before every commit. nbdev_prepare bundles 4 things for you. The error was caused by not clearning the notebooks.</p>
+<ul>
+<li><strong><a href="https://nbdev.fast.ai/api/doclinks.html#nbdev_export">nbdev_export</a></strong>: Builds the .py modules from Jupyter notebooks</li>
+<li><strong><a href="https://nbdev.fast.ai/api/test.html#nbdev_test">nbdev_test</a></strong>: Tests your notebooks</li>
+<li><strong><a href="https://nbdev.fast.ai/api/clean.html#nbdev_clean">nbdev_clean</a></strong>: Cleans your notebooks to get rid of extreanous output for Github</li>
+<li><strong><a href="https://nbdev.fast.ai/api/quarto.html#nbdev_readme">nbdev_readme</a></strong>: Updates README.md from your index notebook.</li>
+</ul>
+<p>After running nbdev_prepare, all workflows were successfully executed.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://raw.githubusercontent.com/jerryweijin/jerryweijin.github.io/main/images/Third_Commit.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Third_Commit</figcaption>
+</figure>
+</div>
+</section>
+<section id="learn-more" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more">Learn More</h2>
+<p>nvdev provides a lot more features than what I can cover in this tutorial. For more info, check out nbdev’s <strong><a href="https://nbdev.fast.ai/getting_started.html">documentation website</a></strong>.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
